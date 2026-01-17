@@ -102,7 +102,7 @@
   {
     "question": "Which diseases can cause meningococci?",
     "options": ["Pharyngitis", "Rhinitis", "Meningitis", "Septicemia", "Intestinal infections"],
-    "correct": [0, 2, 3]
+    "correct": [0, 1, 2, 3]
   },
   {
     "question": "Which methods are used for laboratory diagnosis of meningococcal infections?",
@@ -117,7 +117,7 @@
   {
     "question": "MHC class II antigens are located on which cells:",
     "options": ["B-cells", "T-cells", "Macrophages", "Dendritic cells", "RBC"],
-    "correct": [0, 2, 3]
+    "correct": [0, 1, 3]
   },
   {
     "question": "Which culture media are used for cultivation of nonsporing anaerobes?",
@@ -132,12 +132,12 @@
   {
     "question": "Reaction of soluble antigen with antibody is known as:",
     "options": ["Agglutination", "Flocculation", "Precipitation", "CFT"],
-    "correct": [2]
+    "correct": [0]
   },
   {
     "question": "Diagnostic immune serum may be:",
     "options": ["Agglutinating", "Precipitating", "Haemolytic", "Against rabbit immunoglobulin", "Antiviral"],
-    "correct": [0, 1, 4]
+    "correct": [0, 1, 2, 4]
   },
   {
     "question": "Skin test based on neutralization reaction is:",
@@ -147,7 +147,7 @@
   {
     "question": "Which toxins take part in pathogenesis of tetanus?",
     "options": ["Erythrogenic", "Tetanolysin", "Enterotoxin", "Tetanospasmin", "LPS", "Exotoxin"],
-    "correct": [1, 3, 5]
+    "correct": [0, 3, 5]
   },
   {
     "question": "Which preparations are used for specific treatment of tetanus?",
@@ -182,7 +182,7 @@
   {
     "question": "For prophylaxis of anthrax are used:",
     "options": ["Toxoid", "Bacteriophage", "Killed vaccine", "Specific gamma globulin", "Live vaccine"],
-    "correct": [2, 4]
+    "correct": [2, 3]
   },
   {
     "question": "Properties of Francisella tularensis:",
@@ -242,7 +242,7 @@
   {
     "question": "Antigen binding site in immunoglobulin is:",
     "options": ["Variable region", "Hypervariable region", "Hinge region", "Constant region", "Idiotype"],
-    "correct": [0, 1]
+    "correct": [1, 2]
   },
   {
     "question": "Name causative agents of gas gangrene:",
@@ -312,7 +312,7 @@
   {
     "question": "List structural and biological peculiarities of measles virus:",
     "options": ["Contains RNA", "Contains DNA", "Has neuraminidase", "Has hemagglutinine", "Agglutinates erythrocytes of fowl", "Agglutinates monkey erythrocytes"],
-    "correct": [0, 3, 4]
+    "correct": [0, 3, 5]
   },
   {
     "question": "How to detect and identify measles virus in cell culture?",
@@ -327,7 +327,7 @@
   {
     "question": "List structural and biological properties of measles virus:",
     "options": ["Contain RNA", "Contain DNA", "Has neuraminidase", "Has hemagglutinin", "Can agglutinate chicken erythrocytes", "Can agglutinate monkey erythrocytes"],
-    "correct": [0, 3, 5]
+    "correct": [1, 3, 5]
   },
   {
     "question": "List structural and biological properties of poliovirus:",
@@ -372,7 +372,7 @@
   {
     "question": "Which common properties have Rickettsia and bacteria?",
     "options": ["They are prokaryotes", "They have cell organization", "They are intracellular parasites", "They can not grow on culture media", "They have both RNA and DNA", "They are divided by binary fission"],
-    "correct": [0, 4, 5]
+    "correct": [0, 1, 4, 5]
   },
   {
     "question": "Interleukin 1 primarily acts on:",
@@ -422,7 +422,7 @@
   {
     "question": "Name biological properties of HIV virus:",
     "options": ["Contains DNA", "Contains RNA", "Contains ssRNA", "Contains dsRNA", "Contains oncogene", "Contains reverse transcriptase"],
-    "correct": [1, 2, 5]
+    "correct": [1, 3, 5]
   },
   {
     "question": "List viruses of family Retroviridae:",
@@ -452,7 +452,7 @@
   {
     "question": "For Gram stain are used dyes:",
     "options": ["Gentian violet", "Iodine", "Alcohol", "Volutine", "Methylene blue", "Water solution of fuchsine"],
-    "correct": [0, 1, 5]
+    "correct": [0, 1, 2, 5]
   },
   {
     "question": "Dark-field microscopy are used for examination of:",
@@ -497,7 +497,7 @@
   {
     "question": "To factors of pathogenicity belong:",
     "options": ["Plasmocoagulase", "Hyaluronidase", "Neuraminidase", "Enterotoxin", "Capsule", "Proteolytic activity"],
-    "correct": [0, 1, 2, 3, 4, 5]
+    "correct": [0, 1, 2, 3, 4]
   },
   {
     "question": "Exotoxins of microorganisms are:",
@@ -527,7 +527,7 @@
   {
     "question": "Which material and methods diagnosis are used for laboratory diagnosis of HBV?",
     "options": ["Serum", "Feces", "Blood", "Isolation of virus in cell culture", "Isolation of virus in chick embryos", "Detection of antiviral antibodies", "Detection of viral antigens"],
-    "correct": [0, 2, 5, 6]
+    "correct": [0, 5, 6]
   },
   {
     "question": "Proteolytic activity can be detected:",
@@ -552,7 +552,7 @@
   {
     "question": "Development of tolerance is confined if antigen will be injected:",
     "options": ["To the embryo", "To the newborn", "To adult", "Orally", "Parenterally"],
-    "correct": [0, 1, 3]
+    "correct": [0, 1, 4]
   },
   {
     "question": "The main aim of an adjuvant is to increase:",
@@ -577,7 +577,7 @@
   {
     "question": "Describe morphological and tincitorial properties of Clostridium botulinum:",
     "options": ["Bacilli", "Gram positive", "Gram negative", "Non sporing", "Motile", "Capsulated", "Sporing"],
-    "correct": [0, 1, 6]
+    "correct": [0, 1, 4, 6]
   },
   {
     "question": "For laboratory diagnosis of botulism are used:",
@@ -667,7 +667,7 @@
   {
     "question": "To detect antitoxic immunity against diphtheria are used:",
     "options": ["CFT", "ELISA", "Western blot", "Non direct hemagglutination", "Schick's test", "Dick's test"],
-    "correct": [4, 5]
+    "correct": [3, 4]
   },
   {
     "question": "Name source and modes of transmission of Corynebacterium diphtheriae:",
