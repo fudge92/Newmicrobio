@@ -182,7 +182,7 @@
   {
     "question": "For prophylaxis of anthrax are used:",
     "options": ["Toxoid", "Bacteriophage", "Killed vaccine", "Specific gamma globulin", "Live vaccine"],
-    "correct": [1, 3, 4]
+    "correct": [3, 4]
   },
   {
     "question": "Properties of Francisella tularensis:",
